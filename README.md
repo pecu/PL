@@ -4,4 +4,5 @@
 - 姓名: 蔡芸琤
 - 系級: 師大科技系
 
-- [練習一](https://github.com/pecu/PL/blob/main/Python01.ipynb)
+- [練習一](./Task1/Python01.ipynb)
+- [作業一](./HW1/HW1.ipynb)
